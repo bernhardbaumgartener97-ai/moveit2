@@ -1,0 +1,52 @@
+{
+  "trace_id": "nearfield_manipulation_plan_2026-06-05",
+  "scenario": "manipulation_plan",
+  "source_repo": "moveit2",
+  "domain": "manipulation_planning_execution",
+  "samples": [
+    {
+      "timestamp_s": 0,
+      "success": true,
+      "latency_ms": 24.750000000000004,
+      "clearance_m": 0.243,
+      "jerk": 0.9900000000000001,
+      "saturation_ratio": 0.045000000000000005,
+      "stability_margin": 0.29,
+      "calibration_rmse_px": 0.7200000000000001,
+      "contact_event": false
+    },
+    {
+      "timestamp_s": 1.2,
+      "success": true,
+      "latency_ms": 31.499999999999996,
+      "clearance_m": 0.207,
+      "jerk": 1.364,
+      "saturation_ratio": 0.05500000000000001,
+      "stability_margin": 0.24,
+      "calibration_rmse_px": 0.8,
+      "contact_event": false
+    },
+    {
+      "timestamp_s": 2.6,
+      "success": true,
+      "latency_ms": 40.5,
+      "clearance_m": 0.189,
+      "jerk": 1.54,
+      "saturation_ratio": 0.06999999999999999,
+      "stability_margin": 0.21000000000000002,
+      "calibration_rmse_px": 0.9279999999999999,
+      "contact_event": false
+    },
+    {
+      "timestamp_s": 4.1,
+      "success": true,
+      "latency_ms": 33.75,
+      "clearance_m": 0.216,
+      "jerk": 1.276,
+      "saturation_ratio": 0.06,
+      "stability_margin": 0.25,
+      "calibration_rmse_px": 0.8320000000000001,
+      "contact_event": false
+    }
+  ]
+}
